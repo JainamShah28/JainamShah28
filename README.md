@@ -14,7 +14,9 @@
 <br>
 <div align="center">
 
-[Email Me](mailto:shahjainam.283@gmail.com)
+<span>[Email Me](mailto:shahjainam.283@gmail.com)</sapn>
+&nbsp;&nbsp;
+<span>[My Resume](https://drive.google.com/file/d/1cbgfS4fA_IKA5n07G0vs5SzK3soizWH6/view?usp=sharing)</span>
 </div>
 
 <h2 style="color: #44AEFB">🎉 Fun Facts</h2>
