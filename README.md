@@ -3,7 +3,7 @@
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 #️⃣ Computer Science Enthusiast | Full-Stack Web Developer | Creating Innovative Solutions with Passion  | ProblemSolver | LifelongLearner
     
-![github_cover_banner](./github-header-image.png)
+![github_cover_banner](./github-header.png)
 
 👨‍🎓 Welcome to my gitHub Profile where I love to build and share beautiful web applications I made. I'm an ambitious undergraduate pursuing Computer Science and Engineering at Ahmedabad University. My academic journey has ignited a profound interest in problem-solving and algorithms, fueling my drive to craft cutting-edge solutions that tackle real-world challenges head-on. 💡
 
