@@ -1,7 +1,4 @@
-<h1 style="color: #44AEFB;">Hello there! 👋 I'm Jainam Shah,</h1>
-
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-#️⃣ Computer Science Enthusiast | Full-Stack Web Developer | Creating Innovative Solutions with Passion  | ProblemSolver | LifelongLearner
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >  
     
 ![github_cover_banner](./github-header.png)
 
