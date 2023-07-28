@@ -44,7 +44,13 @@ A passionate software developer and tech enthusiast from Jamnagar, Gujarat. Welc
       <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </a>
+  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferror">
+      <img alt="Redux" height="50px" style="padding-right:10px;" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" />
+  </a>
+<a href="https://www.framer.com/?utm_source=google&utm_medium=adwords&utm_campaign=TW-WW-All-GS-UA-Traffic-20190326-Brand.Bmm_WW-All-GS-KEY-x-1399-Brand.Bmm-Framer&gad=1&gclid=CjwKCAjwzo2mBhAUEiwAf7wjkma7uRAV4kxqXO_AvJpxvKGauglXDtPKT6OmLhtQfvq1-VNf7onErxoC2RcQAvD_BwE" target="_blank" rel="noreferror">
+      <img alt="Framer Motion" height="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
       <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
@@ -54,6 +60,15 @@ A passionate software developer and tech enthusiast from Jamnagar, Gujarat. Welc
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img  alt="TailwindCSS" height="50px" style="padding-right:10px;" src="https://nodesk.co/remote-companies/assets/logos/_huabbcf2b2f3a799498faa0f95e84e7c2b_4714_c672ad82b093f59ec649ac349fabf35c.jpg"/>
+  </a>
+    <a href="https://mui.com/" target="_blank" rel="noreferrer">
+      <img  alt="Material UI" height="50px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png"/>
+  </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img  alt="MySQL" height="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/>
   </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
       <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -66,6 +81,9 @@ A passionate software developer and tech enthusiast from Jamnagar, Gujarat. Welc
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  </a>
+<a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
+      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-xd-icon.png"/> 
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
@@ -103,40 +121,19 @@ A passionate software developer and tech enthusiast from Jamnagar, Gujarat. Welc
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
-    <a href="" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
+    <a href="https://www.linkedin.com/in/jainam-shah-61250020b" target="_blank">
+        <img  style="margin:0 10px 10px 0;" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="LinkedIn" width="40px"/>
     </a>
-    <a href="" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg" alt="blogger" width="40px"/>
+    <a href="https://www.instagram.com/jainam_shah_28/" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/?size=512&id=32323&format=png" alt="Instagram" width="40px"/>
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/thecoder21/" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" alt="GFG" width="40px"/>
+    </a>
+     <a href="https://leetcode.com/jainam_shah_28/" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/?size=512&id=wDGo581Ea5Nf&format=png" alt="LeetCode" width="40px"/>
     </a>
     <a href="mailto:shahjainam.283@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+        <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/?size=512&id=qyRpAggnV0zH&format=png" alt="gmail" width="40px"/>
     </a>
 </div>
-<!-- End Footer -->
-
-<!-- 
-🔗 Links 🔗
-- My Github Portfolio Page:
-https://github.com/ProgrammingGym
-- My Github README Code:
-https://raw.githubusercontent.com/Pro...
-- Youtube Cards:
-https://github.com/DenverCoder1/githu...
-- Youtube Buttons / Badges :
-https://github.com/DenverCoder1/custo...
-- Github & Languages Stats Cards:
-https://github.com/anuraghazra/github...
-- Streak Stats Card:
-https://github.com/denvercoder1/githu...
-- README Web App Generator 1:
-https://rahuldkjain.github.io/gh-prof...
-- README Web App Generator 2:
-https://arturssmirnovs.github.io/gith...
-- SVG Icons Resource1:
-https://devicon.dev/
-- SVG Icons Resource2:
-https://cdn.jsdelivr.net/npm/simple-i...
-- SVG Icons Resource3:
-https://www.svgrepo.com/
--->
