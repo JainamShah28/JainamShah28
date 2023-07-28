@@ -131,7 +131,7 @@ A passionate software developer and tech enthusiast from Jamnagar, Gujarat. Welc
         <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" alt="GFG" width="40px"/>
     </a>
      <a href="https://leetcode.com/jainam_shah_28/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/?size=512&id=wDGo581Ea5Nf&format=png" alt="LeetCode" width="40px"/>
+        <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/?size=512&id=wDGo581Ea5Nf&format=png" alt="LeetCode" width="30px"/>
     </a>
     <a href="mailto:shahjainam.283@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://img.icons8.com/?size=512&id=qyRpAggnV0zH&format=png" alt="gmail" width="40px"/>
